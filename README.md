@@ -1,2 +1,10 @@
-# hello-world
-My first GitHub repository. A place to begin my journey in Computer Science, programming, and software development.
+# Hello, I'm Harsh!
+
+I'm an aspiring Computer Science student from India.
+
+I'm currently learning:
+- Git & GitHub
+- Programming
+- Software Development
+
+This is my first GitHub repository, and I'm excited to keep learning and building projects.
